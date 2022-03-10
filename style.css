@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+.video {
+  width: 50vw;
+  height: 50vh;
+  margin-left: 25vw;
+  margin-top: 5vh;
+}
+
+.foot {
+  color: white;
+  background-color: blue;
+  height: 10vh;
+  width: 50vw;
+  margin-left: 25vw;
+  margin-top: 32.7vh;
+  text-align: center;
+  line-height: 10vh;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+/*# sourceMappingURL=style.css.map */
